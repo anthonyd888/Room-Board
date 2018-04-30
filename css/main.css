@@ -1,0 +1,111 @@
+p{
+font-family: 'Nunito Sans', sans-serif;
+line-height: 2;
+
+}
+
+body{
+	background-image: url(../img/back2.jpg);
+}
+
+h1{
+	font-family: 'Julius Sans One';
+}
+
+h2{
+	font-family: 'Julius Sans One';
+
+}
+
+h3{
+	font-family: 'Julius Sans One';
+
+}
+
+.top-bar-section ul li a{
+	font-family: 'Julius Sans One'
+}
+
+table{
+	width: 100%;
+}
+
+p.lead{
+	font-family: 'Nunito Sans', sans-serif;
+}
+
+.reveal-modal{
+	background-image: url(../img/booking.jpg)
+}
+
+.date1,
+.date2 {
+	color: gray;
+}
+
+.top-bar .name img{
+	height: 40px;
+	margin-right: 1em;
+}
+
+.orbit-container{
+	padding-top: 4em;
+	padding-bottom: 2em;
+}
+
+.orbit-container .orbit-slides-container > * .orbit-caption{
+	background-color: transparent;
+	font-size: 20px;
+	text-shadow: 1px 1px #000;
+	font-family: 'Nunito Sans', sans-serif;
+	text-align: right;
+}
+
+#Features{
+	padding-bottom: 3em;
+}
+
+#Features p{
+	line-height: 1.7;
+}
+
+#Features img{
+	height: 65px;
+	width: 80px;
+	padding: .5em;
+}
+
+#In-Depth{
+	padding-bottom: 2em;
+}
+
+#booking{
+	background-color: #A9A9A9;
+	padding-top: 2em;
+	padding-bottom: 2em;
+}
+
+table thead tr th, table thead tr td{
+font-family: 'Nunito Sans', sans-serif;
+}
+
+button, .button{
+	font-family: 'Julius Sans One';
+}
+
+#contact{
+	background-color: #808080;
+	padding-bottom: 3em;
+	padding-top: 2em;
+	font-size: 20px;
+}
+
+body{
+	font-family: 'Nunito Sans', sans-serif;
+}
+
+.fa{
+	font-size: 40px !important;
+	padding: .15em !important;
+}
+
